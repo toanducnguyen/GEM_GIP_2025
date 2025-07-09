@@ -1,0 +1,10 @@
+put(key, value): Thêm một cặp key-value vào Map.
+get(key): Lấy giá trị tương ứng với một key từ Map.
+containsKey(key): Kiểm tra xem Map có chứa key này không.
+containsValue(value): Kiểm tra xem Map có chứa value này không.
+remove(key): Xóa cặp key-value tương ứng với một key từ Map.
+size(): Lấy kích thước (số lượng cặp key-value) của Map.
+isEmpty(): Kiểm tra xem Map có rỗng hay không.
+keySet(): Trả về một Set chứa tất cả các key trong Map.
+values(): Trả về một Collection chứa tất cả các value trong Map.
+entrySet(): Trả về một Set chứa tất cả các cặp key-value trong Map dưới dạng Entry object.
